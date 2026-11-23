@@ -1,0 +1,767 @@
+[
+  [
+    {
+      "text": " In",
+      "startMs": 880,
+      "endMs": 1180,
+      "timestampMs": 1030,
+      "confidence": null
+    },
+    {
+      "text": " 1836,",
+      "startMs": 1180,
+      "endMs": 2360,
+      "timestampMs": 1770,
+      "confidence": null
+    },
+    {
+      "text": " scientists",
+      "startMs": 2560,
+      "endMs": 3000,
+      "timestampMs": 2780,
+      "confidence": null
+    },
+    {
+      "text": " digging",
+      "startMs": 3000,
+      "endMs": 3240,
+      "timestampMs": 3120,
+      "confidence": null
+    },
+    {
+      "text": " in",
+      "startMs": 3240,
+      "endMs": 3400,
+      "timestampMs": 3320,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " the",
+      "startMs": 3400,
+      "endMs": 3540,
+      "timestampMs": 3470,
+      "confidence": null
+    },
+    {
+      "text": " Shivalik",
+      "startMs": 3540,
+      "endMs": 4240,
+      "timestampMs": 3890,
+      "confidence": null
+    },
+    {
+      "text": " Hills",
+      "startMs": 4240,
+      "endMs": 4940,
+      "timestampMs": 4590,
+      "confidence": null
+    },
+    {
+      "text": " found",
+      "startMs": 4940,
+      "endMs": 5320,
+      "timestampMs": 5130,
+      "confidence": null
+    },
+    {
+      "text": " a",
+      "startMs": 5320,
+      "endMs": 5700,
+      "timestampMs": 5510,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " skull",
+      "startMs": 5700,
+      "endMs": 6520,
+      "timestampMs": 6110,
+      "confidence": null
+    },
+    {
+      "text": " so",
+      "startMs": 6520,
+      "endMs": 6960,
+      "timestampMs": 6740,
+      "confidence": null
+    },
+    {
+      "text": " bizarre",
+      "startMs": 6960,
+      "endMs": 7460,
+      "timestampMs": 7210,
+      "confidence": null
+    },
+    {
+      "text": " they",
+      "startMs": 7460,
+      "endMs": 7720,
+      "timestampMs": 7590,
+      "confidence": null
+    },
+    {
+      "text": " thought",
+      "startMs": 7720,
+      "endMs": 7920,
+      "timestampMs": 7820,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " it",
+      "startMs": 7920,
+      "endMs": 8120,
+      "timestampMs": 8020,
+      "confidence": null
+    },
+    {
+      "text": " was",
+      "startMs": 8120,
+      "endMs": 8340,
+      "timestampMs": 8230,
+      "confidence": null
+    },
+    {
+      "text": " a",
+      "startMs": 8340,
+      "endMs": 8660,
+      "timestampMs": 8500,
+      "confidence": null
+    },
+    {
+      "text": " four-horned",
+      "startMs": 8660,
+      "endMs": 9580,
+      "timestampMs": 9120,
+      "confidence": null
+    },
+    {
+      "text": " elephant.",
+      "startMs": 9580,
+      "endMs": 10000,
+      "timestampMs": 9790,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " They",
+      "startMs": 10660,
+      "endMs": 11000,
+      "timestampMs": 10830,
+      "confidence": null
+    },
+    {
+      "text": " named",
+      "startMs": 11000,
+      "endMs": 11280,
+      "timestampMs": 11140,
+      "confidence": null
+    },
+    {
+      "text": " it",
+      "startMs": 11280,
+      "endMs": 11500,
+      "timestampMs": 11390,
+      "confidence": null
+    },
+    {
+      "text": " Sivatherium",
+      "startMs": 11500,
+      "endMs": 12380,
+      "timestampMs": 11940,
+      "confidence": null
+    },
+    {
+      "text": " giganteum—",
+      "startMs": 12380,
+      "endMs": 13520,
+      "timestampMs": 12950,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "meaning",
+      "startMs": 13800,
+      "endMs": 14420,
+      "timestampMs": 14110,
+      "confidence": null
+    },
+    {
+      "text": " 'Shiva’s",
+      "startMs": 14420,
+      "endMs": 15160,
+      "timestampMs": 14790,
+      "confidence": null
+    },
+    {
+      "text": " giant",
+      "startMs": 15160,
+      "endMs": 15660,
+      "timestampMs": 15410,
+      "confidence": null
+    },
+    {
+      "text": " beast'—",
+      "startMs": 15660,
+      "endMs": 16340,
+      "timestampMs": 16000,
+      "confidence": null
+    },
+    {
+      "text": "the",
+      "startMs": 16540,
+      "endMs": 16940,
+      "timestampMs": 16740,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " largest",
+      "startMs": 16940,
+      "endMs": 17300,
+      "timestampMs": 17120,
+      "confidence": null
+    },
+    {
+      "text": " giraffe",
+      "startMs": 17300,
+      "endMs": 17440,
+      "timestampMs": 17370,
+      "confidence": null
+    },
+    {
+      "text": " that",
+      "startMs": 17640,
+      "endMs": 17960,
+      "timestampMs": 17800,
+      "confidence": null
+    },
+    {
+      "text": " ever",
+      "startMs": 17960,
+      "endMs": 18320,
+      "timestampMs": 18140,
+      "confidence": null
+    },
+    {
+      "text": " lived,",
+      "startMs": 18320,
+      "endMs": 18600,
+      "timestampMs": 18460,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " built",
+      "startMs": 18860,
+      "endMs": 19120,
+      "timestampMs": 18990,
+      "confidence": null
+    },
+    {
+      "text": " like",
+      "startMs": 19120,
+      "endMs": 19360,
+      "timestampMs": 19240,
+      "confidence": null
+    },
+    {
+      "text": " a",
+      "startMs": 19360,
+      "endMs": 19520,
+      "timestampMs": 19440,
+      "confidence": null
+    },
+    {
+      "text": " tank",
+      "startMs": 19520,
+      "endMs": 19880,
+      "timestampMs": 19700,
+      "confidence": null
+    },
+    {
+      "text": " with",
+      "startMs": 19880,
+      "endMs": 20180,
+      "timestampMs": 20030,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " moose-like",
+      "startMs": 20180,
+      "endMs": 20860,
+      "timestampMs": 20520,
+      "confidence": null
+    },
+    {
+      "text": " antlers.",
+      "startMs": 20860,
+      "endMs": 21360,
+      "timestampMs": 21110,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " Weighing",
+      "startMs": 22080,
+      "endMs": 22420,
+      "timestampMs": 22250,
+      "confidence": null
+    },
+    {
+      "text": " over",
+      "startMs": 22420,
+      "endMs": 22650,
+      "timestampMs": 22535,
+      "confidence": null
+    },
+    {
+      "text": " 1,200",
+      "startMs": 22650,
+      "endMs": 23650,
+      "timestampMs": 23150,
+      "confidence": null
+    },
+    {
+      "text": " kilos,",
+      "startMs": 23650,
+      "endMs": 24280,
+      "timestampMs": 23965,
+      "confidence": null
+    },
+    {
+      "text": " it",
+      "startMs": 24320,
+      "endMs": 24640,
+      "timestampMs": 24480,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " didn't",
+      "startMs": 24640,
+      "endMs": 25080,
+      "timestampMs": 24860,
+      "confidence": null
+    },
+    {
+      "text": " roar...",
+      "startMs": 25080,
+      "endMs": 25260,
+      "timestampMs": 25170,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " ...instead,",
+      "startMs": 26989,
+      "endMs": 27860,
+      "timestampMs": 27425,
+      "confidence": null
+    },
+    {
+      "text": " like",
+      "startMs": 28140,
+      "endMs": 28620,
+      "timestampMs": 28380,
+      "confidence": null
+    },
+    {
+      "text": " modern",
+      "startMs": 28620,
+      "endMs": 28860,
+      "timestampMs": 28740,
+      "confidence": null
+    },
+    {
+      "text": " giraffes",
+      "startMs": 28860,
+      "endMs": 29600,
+      "timestampMs": 29230,
+      "confidence": null
+    },
+    {
+      "text": " and",
+      "startMs": 29600,
+      "endMs": 29840,
+      "timestampMs": 29720,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " okapis,",
+      "startMs": 29840,
+      "endMs": 30640,
+      "timestampMs": 30240,
+      "confidence": null
+    },
+    {
+      "text": " it",
+      "startMs": 30860,
+      "endMs": 31460,
+      "timestampMs": 31160,
+      "confidence": null
+    },
+    {
+      "text": " communicated",
+      "startMs": 31460,
+      "endMs": 32140,
+      "timestampMs": 31800,
+      "confidence": null
+    },
+    {
+      "text": " with",
+      "startMs": 32140,
+      "endMs": 32640,
+      "timestampMs": 32390,
+      "confidence": null
+    },
+    {
+      "text": " deep,",
+      "startMs": 32640,
+      "endMs": 33280,
+      "timestampMs": 32960,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " rumbling",
+      "startMs": 33280,
+      "endMs": 33880,
+      "timestampMs": 33580,
+      "confidence": null
+    },
+    {
+      "text": " hums",
+      "startMs": 33880,
+      "endMs": 34400,
+      "timestampMs": 34140,
+      "confidence": null
+    },
+    {
+      "text": " and",
+      "startMs": 34400,
+      "endMs": 34860,
+      "timestampMs": 34630,
+      "confidence": null
+    },
+    {
+      "text": " nasal",
+      "startMs": 34860,
+      "endMs": 35280,
+      "timestampMs": 35070,
+      "confidence": null
+    },
+    {
+      "text": " snorts.",
+      "startMs": 35280,
+      "endMs": 35630,
+      "timestampMs": 35455,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " Fossil",
+      "startMs": 36146.75,
+      "endMs": 36546.75,
+      "timestampMs": 36346.75,
+      "confidence": null
+    },
+    {
+      "text": " tooth",
+      "startMs": 36546.75,
+      "endMs": 36876.75,
+      "timestampMs": 36711.75,
+      "confidence": null
+    },
+    {
+      "text": " wear",
+      "startMs": 36876.75,
+      "endMs": 37286.75,
+      "timestampMs": 37081.75,
+      "confidence": null
+    },
+    {
+      "text": " proves",
+      "startMs": 37286.75,
+      "endMs": 37506.75,
+      "timestampMs": 37396.75,
+      "confidence": null
+    },
+    {
+      "text": " it",
+      "startMs": 37506.75,
+      "endMs": 37786.75,
+      "timestampMs": 37646.75,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " browsed",
+      "startMs": 37786.75,
+      "endMs": 38246.75,
+      "timestampMs": 38016.75,
+      "confidence": null
+    },
+    {
+      "text": " both",
+      "startMs": 38246.75,
+      "endMs": 38606.75,
+      "timestampMs": 38426.75,
+      "confidence": null
+    },
+    {
+      "text": " tough",
+      "startMs": 38606.75,
+      "endMs": 39086.75,
+      "timestampMs": 38846.75,
+      "confidence": null
+    },
+    {
+      "text": " bushes",
+      "startMs": 39086.75,
+      "endMs": 39586.75,
+      "timestampMs": 39336.75,
+      "confidence": null
+    },
+    {
+      "text": " and",
+      "startMs": 39586.75,
+      "endMs": 39906.75,
+      "timestampMs": 39746.75,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " floodplain",
+      "startMs": 39906.75,
+      "endMs": 40706.75,
+      "timestampMs": 40306.75,
+      "confidence": null
+    },
+    {
+      "text": " grasses",
+      "startMs": 40706.75,
+      "endMs": 41606.75,
+      "timestampMs": 41156.75,
+      "confidence": null
+    },
+    {
+      "text": " across",
+      "startMs": 41606.75,
+      "endMs": 42066.75,
+      "timestampMs": 41836.75,
+      "confidence": null
+    },
+    {
+      "text": " ancient",
+      "startMs": 42066.75,
+      "endMs": 42406.75,
+      "timestampMs": 42236.75,
+      "confidence": null
+    },
+    {
+      "text": " North",
+      "startMs": 42406.75,
+      "endMs": 42886.75,
+      "timestampMs": 42646.75,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " India",
+      "startMs": 42886.75,
+      "endMs": 43386.75,
+      "timestampMs": 43136.75,
+      "confidence": null
+    },
+    {
+      "text": " until",
+      "startMs": 43386.75,
+      "endMs": 43746.75,
+      "timestampMs": 43566.75,
+      "confidence": null
+    },
+    {
+      "text": " one",
+      "startMs": 43746.75,
+      "endMs": 43986.75,
+      "timestampMs": 43866.75,
+      "confidence": null
+    },
+    {
+      "text": " million",
+      "startMs": 43986.75,
+      "endMs": 44466.75,
+      "timestampMs": 44226.75,
+      "confidence": null
+    },
+    {
+      "text": " years",
+      "startMs": 44466.75,
+      "endMs": 44826.75,
+      "timestampMs": 44646.75,
+      "confidence": null
+    },
+    {
+      "text": " ago.",
+      "startMs": 44826.75,
+      "endMs": 45376.75,
+      "timestampMs": 44876.75,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " And",
+      "startMs": 45906.75,
+      "endMs": 46066.75,
+      "timestampMs": 45986.75,
+      "confidence": null
+    },
+    {
+      "text": " you",
+      "startMs": 46066.75,
+      "endMs": 46266.75,
+      "timestampMs": 46166.75,
+      "confidence": null
+    },
+    {
+      "text": " can",
+      "startMs": 46266.75,
+      "endMs": 46606.75,
+      "timestampMs": 46436.75,
+      "confidence": null
+    },
+    {
+      "text": " stand",
+      "startMs": 46606.75,
+      "endMs": 47006.75,
+      "timestampMs": 46806.75,
+      "confidence": null
+    },
+    {
+      "text": " right",
+      "startMs": 47006.75,
+      "endMs": 47306.75,
+      "timestampMs": 47156.75,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " next",
+      "startMs": 47306.75,
+      "endMs": 47486.75,
+      "timestampMs": 47396.75,
+      "confidence": null
+    },
+    {
+      "text": " to",
+      "startMs": 47486.75,
+      "endMs": 47586.75,
+      "timestampMs": 47536.75,
+      "confidence": null
+    },
+    {
+      "text": " a",
+      "startMs": 47586.75,
+      "endMs": 47886.75,
+      "timestampMs": 47736.75,
+      "confidence": null
+    },
+    {
+      "text": " life-size",
+      "startMs": 47886.75,
+      "endMs": 48766.75,
+      "timestampMs": 48326.75,
+      "confidence": null
+    },
+    {
+      "text": " reconstruction",
+      "startMs": 48766.75,
+      "endMs": 49406.75,
+      "timestampMs": 49086.75,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " today",
+      "startMs": 49406.75,
+      "endMs": 49926.75,
+      "timestampMs": 49666.75,
+      "confidence": null
+    },
+    {
+      "text": " at",
+      "startMs": 49926.75,
+      "endMs": 50126.75,
+      "timestampMs": 50026.75,
+      "confidence": null
+    },
+    {
+      "text": " Shivalik",
+      "startMs": 50126.75,
+      "endMs": 50686.75,
+      "timestampMs": 50406.75,
+      "confidence": null
+    },
+    {
+      "text": " Fossil",
+      "startMs": 50686.75,
+      "endMs": 51206.75,
+      "timestampMs": 50946.75,
+      "confidence": null
+    },
+    {
+      "text": " Park",
+      "startMs": 51206.75,
+      "endMs": 51566.75,
+      "timestampMs": 51386.75,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": " in",
+      "startMs": 51566.75,
+      "endMs": 51746.75,
+      "timestampMs": 51656.75,
+      "confidence": null
+    },
+    {
+      "text": " Himachal",
+      "startMs": 51746.75,
+      "endMs": 52486.75,
+      "timestampMs": 52116.75,
+      "confidence": null
+    },
+    {
+      "text": " Pradesh.",
+      "startMs": 52486.75,
+      "endMs": 52746.75,
+      "timestampMs": 52616.75,
+      "confidence": null
+    }
+  ]
+]

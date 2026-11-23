@@ -11,3 +11,11 @@ Config.setRspack(true);
 Config.setVideoImageFormat("jpeg");
 Config.setOverwriteOutput(true);
 Config.setDefaultPremountInSeconds(2);
+
+Config.setCodec("h264");
+Config.setCrf(16);
+Config.setPixelFormat("yuv420p");
+Config.setScale(1);
+
+// Use the Mac GPU for media compositing and the subtle sharpening filter.
+Config.setChromiumOpenGlRenderer("angle");

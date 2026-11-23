@@ -9,7 +9,14 @@
   },
   "private": true,
   "dependencies": {
+    "@huggingface/transformers": "4.2.0",
+    "@mediabunny/server": "1.66.0",
+    "@remotion/captions": "4.0.543",
     "@remotion/cli": "4.0.543",
+    "@remotion/media": "4.0.543",
+    "@remotion/studio": "4.0.543",
+    "@remotion/whisper-webgpu": "4.0.543",
+    "mediabunny": "1.66.0",
     "react": "19.3.1",
     "react-dom": "19.3.1",
     "remotion": "4.0.543"

@@ -1,0 +1,574 @@
+[
+  {
+    "start": 0,
+    "end": 10.2,
+    "text": "In 1836, scientists digging in the chivalric hills found a skull so bizarre they thought it was a four-horned elephant.",
+    "words": [
+      {
+        "text": "In",
+        "startInSeconds": 0.88,
+        "endInSeconds": 1.18
+      },
+      {
+        "text": " 1836,",
+        "startInSeconds": 1.18,
+        "endInSeconds": 2.36
+      },
+      {
+        "text": " scientists",
+        "startInSeconds": 2.56,
+        "endInSeconds": 3
+      },
+      {
+        "text": " digging",
+        "startInSeconds": 3,
+        "endInSeconds": 3.24
+      },
+      {
+        "text": " in",
+        "startInSeconds": 3.24,
+        "endInSeconds": 3.4
+      },
+      {
+        "text": " the",
+        "startInSeconds": 3.4,
+        "endInSeconds": 3.54
+      },
+      {
+        "text": " chivalric",
+        "startInSeconds": 3.54,
+        "endInSeconds": 4.24
+      },
+      {
+        "text": " hills",
+        "startInSeconds": 4.24,
+        "endInSeconds": 4.94
+      },
+      {
+        "text": " found",
+        "startInSeconds": 4.94,
+        "endInSeconds": 5.32
+      },
+      {
+        "text": " a",
+        "startInSeconds": 5.32,
+        "endInSeconds": 5.7
+      },
+      {
+        "text": " skull",
+        "startInSeconds": 5.7,
+        "endInSeconds": 6.52
+      },
+      {
+        "text": " so",
+        "startInSeconds": 6.52,
+        "endInSeconds": 6.96
+      },
+      {
+        "text": " bizarre",
+        "startInSeconds": 6.96,
+        "endInSeconds": 7.46
+      },
+      {
+        "text": " they",
+        "startInSeconds": 7.46,
+        "endInSeconds": 7.72
+      },
+      {
+        "text": " thought",
+        "startInSeconds": 7.72,
+        "endInSeconds": 7.92
+      },
+      {
+        "text": " it",
+        "startInSeconds": 7.92,
+        "endInSeconds": 8.12
+      },
+      {
+        "text": " was",
+        "startInSeconds": 8.12,
+        "endInSeconds": 8.34
+      },
+      {
+        "text": " a",
+        "startInSeconds": 8.34,
+        "endInSeconds": 8.66
+      },
+      {
+        "text": " four",
+        "startInSeconds": 8.66,
+        "endInSeconds": 8.92
+      },
+      {
+        "text": "-horned",
+        "startInSeconds": 8.92,
+        "endInSeconds": 9.58
+      },
+      {
+        "text": " elephant.",
+        "startInSeconds": 9.58,
+        "endInSeconds": 10
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 21.5,
+    "text": "They named it Sivitarium giganteum, meaning Shiva's giant beast, the largest giraffe that ever lived, built like a tank with moose-like antlers.",
+    "words": [
+      {
+        "text": "They",
+        "startInSeconds": 10.66,
+        "endInSeconds": 11
+      },
+      {
+        "text": " named",
+        "startInSeconds": 11,
+        "endInSeconds": 11.28
+      },
+      {
+        "text": " it",
+        "startInSeconds": 11.28,
+        "endInSeconds": 11.5
+      },
+      {
+        "text": " Sivitarium",
+        "startInSeconds": 11.5,
+        "endInSeconds": 12.379999999999999
+      },
+      {
+        "text": " giganteum,",
+        "startInSeconds": 12.379999999999999,
+        "endInSeconds": 13.52
+      },
+      {
+        "text": " meaning",
+        "startInSeconds": 13.799999999999999,
+        "endInSeconds": 14.419999999999998
+      },
+      {
+        "text": " Shiva's",
+        "startInSeconds": 14.419999999999998,
+        "endInSeconds": 15.16
+      },
+      {
+        "text": " giant",
+        "startInSeconds": 15.16,
+        "endInSeconds": 15.66
+      },
+      {
+        "text": " beast,",
+        "startInSeconds": 15.66,
+        "endInSeconds": 16.34
+      },
+      {
+        "text": " the",
+        "startInSeconds": 16.54,
+        "endInSeconds": 16.939999999999998
+      },
+      {
+        "text": " largest",
+        "startInSeconds": 16.939999999999998,
+        "endInSeconds": 17.299999999999997
+      },
+      {
+        "text": " giraffe",
+        "startInSeconds": 17.299999999999997,
+        "endInSeconds": 17.439999999999998
+      },
+      {
+        "text": " that",
+        "startInSeconds": 17.64,
+        "endInSeconds": 17.96
+      },
+      {
+        "text": " ever",
+        "startInSeconds": 17.96,
+        "endInSeconds": 18.32
+      },
+      {
+        "text": " lived,",
+        "startInSeconds": 18.32,
+        "endInSeconds": 18.6
+      },
+      {
+        "text": " built",
+        "startInSeconds": 18.86,
+        "endInSeconds": 19.119999999999997
+      },
+      {
+        "text": " like",
+        "startInSeconds": 19.119999999999997,
+        "endInSeconds": 19.36
+      },
+      {
+        "text": " a",
+        "startInSeconds": 19.36,
+        "endInSeconds": 19.52
+      },
+      {
+        "text": " tank",
+        "startInSeconds": 19.52,
+        "endInSeconds": 19.88
+      },
+      {
+        "text": " with",
+        "startInSeconds": 19.88,
+        "endInSeconds": 20.18
+      },
+      {
+        "text": " moose",
+        "startInSeconds": 20.18,
+        "endInSeconds": 20.5
+      },
+      {
+        "text": "-like",
+        "startInSeconds": 20.5,
+        "endInSeconds": 20.86
+      },
+      {
+        "text": " antlers.",
+        "startInSeconds": 20.86,
+        "endInSeconds": 21.36
+      }
+    ]
+  },
+  {
+    "start": 21.5,
+    "end": 26.2,
+    "text": "weighing over 1200 kilos, a dent roar.",
+    "words": [
+      {
+        "text": "weighing",
+        "startInSeconds": 22.08,
+        "endInSeconds": 22.42
+      },
+      {
+        "text": " over",
+        "startInSeconds": 22.42,
+        "endInSeconds": 23.08
+      },
+      {
+        "text": " 1200",
+        "startInSeconds": 23.08,
+        "endInSeconds": 23.08
+      },
+      {
+        "text": " kilos,",
+        "startInSeconds": 23.08,
+        "endInSeconds": 24.28
+      },
+      {
+        "text": " a",
+        "startInSeconds": 24.32,
+        "endInSeconds": 24.64
+      },
+      {
+        "text": " dent",
+        "startInSeconds": 24.64,
+        "endInSeconds": 25.08
+      },
+      {
+        "text": " roar.",
+        "startInSeconds": 25.08,
+        "endInSeconds": 25.34
+      }
+    ]
+  },
+  {
+    "start": 26.2,
+    "end": 36.2,
+    "text": "Instead, like modern giraffes and okapis, it communicated with deep, rumbling hums and nasal snorts.",
+    "words": [
+      {
+        "text": "Instead,",
+        "startInSeconds": 27.5,
+        "endInSeconds": 27.86
+      },
+      {
+        "text": " like",
+        "startInSeconds": 28.14,
+        "endInSeconds": 28.619999999999997
+      },
+      {
+        "text": " modern",
+        "startInSeconds": 28.619999999999997,
+        "endInSeconds": 28.86
+      },
+      {
+        "text": " giraffes",
+        "startInSeconds": 28.86,
+        "endInSeconds": 29.599999999999998
+      },
+      {
+        "text": " and",
+        "startInSeconds": 29.599999999999998,
+        "endInSeconds": 29.84
+      },
+      {
+        "text": " okapis,",
+        "startInSeconds": 29.84,
+        "endInSeconds": 30.64
+      },
+      {
+        "text": " it",
+        "startInSeconds": 30.86,
+        "endInSeconds": 31.46
+      },
+      {
+        "text": " communicated",
+        "startInSeconds": 31.46,
+        "endInSeconds": 32.14
+      },
+      {
+        "text": " with",
+        "startInSeconds": 32.14,
+        "endInSeconds": 32.64
+      },
+      {
+        "text": " deep,",
+        "startInSeconds": 32.64,
+        "endInSeconds": 33.28
+      },
+      {
+        "text": " rumbling",
+        "startInSeconds": 33.28,
+        "endInSeconds": 33.879999999999995
+      },
+      {
+        "text": " hums",
+        "startInSeconds": 33.879999999999995,
+        "endInSeconds": 34.4
+      },
+      {
+        "text": " and",
+        "startInSeconds": 34.4,
+        "endInSeconds": 34.86
+      },
+      {
+        "text": " nasal",
+        "startInSeconds": 34.86,
+        "endInSeconds": 35.28
+      },
+      {
+        "text": " snorts.",
+        "startInSeconds": 35.28,
+        "endInSeconds": 36.2
+      }
+    ]
+  },
+  {
+    "start": 36.2,
+    "end": 46,
+    "text": "Fossil tootware proves it browsed both tough bushes and flood plain grasses across ancient North India until 1 million years ago.",
+    "words": [
+      {
+        "text": "Fossil",
+        "startInSeconds": 36.92,
+        "endInSeconds": 37.32
+      },
+      {
+        "text": " tootware",
+        "startInSeconds": 37.32,
+        "endInSeconds": 38.06
+      },
+      {
+        "text": " proves",
+        "startInSeconds": 38.06,
+        "endInSeconds": 38.28
+      },
+      {
+        "text": " it",
+        "startInSeconds": 38.28,
+        "endInSeconds": 38.56
+      },
+      {
+        "text": " browsed",
+        "startInSeconds": 38.56,
+        "endInSeconds": 39.02
+      },
+      {
+        "text": " both",
+        "startInSeconds": 39.02,
+        "endInSeconds": 39.38
+      },
+      {
+        "text": " tough",
+        "startInSeconds": 39.38,
+        "endInSeconds": 39.86
+      },
+      {
+        "text": " bushes",
+        "startInSeconds": 39.86,
+        "endInSeconds": 40.36
+      },
+      {
+        "text": " and",
+        "startInSeconds": 40.36,
+        "endInSeconds": 40.68000000000001
+      },
+      {
+        "text": " flood",
+        "startInSeconds": 40.68000000000001,
+        "endInSeconds": 41.1
+      },
+      {
+        "text": " plain",
+        "startInSeconds": 41.1,
+        "endInSeconds": 41.480000000000004
+      },
+      {
+        "text": " grasses",
+        "startInSeconds": 41.480000000000004,
+        "endInSeconds": 42.38
+      },
+      {
+        "text": " across",
+        "startInSeconds": 42.38,
+        "endInSeconds": 42.84
+      },
+      {
+        "text": " ancient",
+        "startInSeconds": 42.84,
+        "endInSeconds": 43.18000000000001
+      },
+      {
+        "text": " North",
+        "startInSeconds": 43.18000000000001,
+        "endInSeconds": 43.660000000000004
+      },
+      {
+        "text": " India",
+        "startInSeconds": 43.660000000000004,
+        "endInSeconds": 44.160000000000004
+      },
+      {
+        "text": " until",
+        "startInSeconds": 44.160000000000004,
+        "endInSeconds": 44.52
+      },
+      {
+        "text": " 1",
+        "startInSeconds": 44.52,
+        "endInSeconds": 44.760000000000005
+      },
+      {
+        "text": " million",
+        "startInSeconds": 44.760000000000005,
+        "endInSeconds": 45.24
+      },
+      {
+        "text": " years",
+        "startInSeconds": 45.24,
+        "endInSeconds": 45.6
+      },
+      {
+        "text": " ago.",
+        "startInSeconds": 45.6,
+        "endInSeconds": 46
+      }
+    ]
+  },
+  {
+    "start": 46,
+    "end": 55.210688,
+    "text": "and you can stand right next to a life-size reconstruction today at Shivalik Fossil Park in Himachal Pradesh.",
+    "words": [
+      {
+        "text": "and",
+        "startInSeconds": 46.68,
+        "endInSeconds": 46.84
+      },
+      {
+        "text": " you",
+        "startInSeconds": 46.84,
+        "endInSeconds": 47.04
+      },
+      {
+        "text": " can",
+        "startInSeconds": 47.04,
+        "endInSeconds": 47.38
+      },
+      {
+        "text": " stand",
+        "startInSeconds": 47.38,
+        "endInSeconds": 47.78
+      },
+      {
+        "text": " right",
+        "startInSeconds": 47.78,
+        "endInSeconds": 48.08
+      },
+      {
+        "text": " next",
+        "startInSeconds": 48.08,
+        "endInSeconds": 48.26
+      },
+      {
+        "text": " to",
+        "startInSeconds": 48.26,
+        "endInSeconds": 48.36
+      },
+      {
+        "text": " a",
+        "startInSeconds": 48.36,
+        "endInSeconds": 48.66
+      },
+      {
+        "text": " life",
+        "startInSeconds": 48.66,
+        "endInSeconds": 48.74
+      },
+      {
+        "text": "-size",
+        "startInSeconds": 48.74,
+        "endInSeconds": 49.54
+      },
+      {
+        "text": " reconstruction",
+        "startInSeconds": 49.54,
+        "endInSeconds": 50.18
+      },
+      {
+        "text": " today",
+        "startInSeconds": 50.18,
+        "endInSeconds": 50.7
+      },
+      {
+        "text": " at",
+        "startInSeconds": 50.7,
+        "endInSeconds": 50.9
+      },
+      {
+        "text": " Shivalik",
+        "startInSeconds": 50.9,
+        "endInSeconds": 51.46
+      },
+      {
+        "text": " Fossil",
+        "startInSeconds": 51.46,
+        "endInSeconds": 51.980000000000004
+      },
+      {
+        "text": " Park",
+        "startInSeconds": 51.980000000000004,
+        "endInSeconds": 52.34
+      },
+      {
+        "text": " in",
+        "startInSeconds": 52.34,
+        "endInSeconds": 52.519999999999996
+      },
+      {
+        "text": " Himachal",
+        "startInSeconds": 52.519999999999996,
+        "endInSeconds": 53.26
+      },
+      {
+        "text": " Pradesh.",
+        "startInSeconds": 53.26,
+        "endInSeconds": 54
+      }
+    ]
+  }
+]
